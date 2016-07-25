@@ -1,0 +1,1 @@
+Developed a scalable Java application for data visualization based on MVC pattern using interface contracts and test-driven development method in a two-person team. Fully tested the application and improved the code quality using JUnit and EclEmma.
